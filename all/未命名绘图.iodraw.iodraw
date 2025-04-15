@@ -88,7 +88,7 @@
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-35" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="720" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tXSjWE5riUqoOoHvCYNQ-40" value="集成测试，并进行对照试验，撰写研究报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="279" y="810" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
