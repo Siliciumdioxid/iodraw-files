@@ -31,7 +31,7 @@
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-7" target="tXSjWE5riUqoOoHvCYNQ-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tXSjWE5riUqoOoHvCYNQ-7" value="梳理所收集的文献" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-8" target="tXSjWE5riUqoOoHvCYNQ-2">
