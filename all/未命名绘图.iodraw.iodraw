@@ -73,7 +73,7 @@
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-32" value="视觉检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="730" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="tXSjWE5riUqoOoHvCYNQ-33" value="交通数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="534" y="730" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
