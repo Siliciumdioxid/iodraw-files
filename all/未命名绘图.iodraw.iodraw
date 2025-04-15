@@ -65,19 +65,19 @@
           <mxGeometry x="800" y="310" width="686.48" height="440" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-30" value="软件需求分析，确定软件架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="640" width="270" height="60" as="geometry" />
+          <mxGeometry x="279" y="640" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.226;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-11" target="tXSjWE5riUqoOoHvCYNQ-30">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-32" value="视觉检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="250" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-33" value="交通数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="534" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="370" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-35" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="654" y="730" width="120" height="60" as="geometry" />
+          <mxGeometry x="490" y="720" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
