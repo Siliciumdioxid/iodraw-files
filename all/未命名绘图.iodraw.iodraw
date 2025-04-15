@@ -1,89 +1,17 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="1rLgBzvjvqBpwtof_zvL">
-    <mxGraphModel dx="837" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="_Qu0mqbOng-OBgoeGVY1">
+    <mxGraphModel dx="1213" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-1" target="tXSjWE5riUqoOoHvCYNQ-2">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="5SThhOnY0wtXZMsGLImG-1" value="视觉检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-1" value="查阅相关文献，了解国内外研究现状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="250" y="190" width="120" height="60" as="geometry" />
+        <mxCell id="5SThhOnY0wtXZMsGLImG-2" value="交通数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="380" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-2" value="确定课题与研究目标" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="310" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-3" target="tXSjWE5riUqoOoHvCYNQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-3" value="咨询指导教师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="450" y="190" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-4" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-1" target="tXSjWE5riUqoOoHvCYNQ-3">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="370" y="400" as="sourcePoint" />
-            <mxPoint x="420" y="350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-7" target="tXSjWE5riUqoOoHvCYNQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-7" target="tXSjWE5riUqoOoHvCYNQ-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-7" target="tXSjWE5riUqoOoHvCYNQ-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-7" value="梳理所收集的文献，发现不足" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-8" target="tXSjWE5riUqoOoHvCYNQ-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-8" target="tXSjWE5riUqoOoHvCYNQ-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-8" target="tXSjWE5riUqoOoHvCYNQ-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-8" value="实地调查，发现存在的问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="410" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-11" target="tXSjWE5riUqoOoHvCYNQ-30">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-11" value="制定课题研究计划，确定系统需求" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="550" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-23" value="收集反馈意见，完善成果，结题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="940" width="360" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-30" target="tXSjWE5riUqoOoHvCYNQ-33">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-30" value="软件需求分析，确定软件架构" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="630" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-32" value="视觉检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="234" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-33" target="tXSjWE5riUqoOoHvCYNQ-40">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-33" value="交通数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-35" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="474" y="720" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-40" value="集成测试，并进行对照试验，撰写研究报告" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="279" y="810" width="270" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tXSjWE5riUqoOoHvCYNQ-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-40" target="tXSjWE5riUqoOoHvCYNQ-23">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="340" y="930" as="sourcePoint" />
-            <mxPoint x="390" y="880" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="5SThhOnY0wtXZMsGLImG-3" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="474" y="380" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
