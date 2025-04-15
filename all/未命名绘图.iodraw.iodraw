@@ -79,6 +79,9 @@
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-32" value="视觉检测模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="234" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tXSjWE5riUqoOoHvCYNQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tXSjWE5riUqoOoHvCYNQ-33" target="tXSjWE5riUqoOoHvCYNQ-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-33" value="交通数据分析模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="720" width="120" height="60" as="geometry" />
         </mxCell>
@@ -86,7 +89,7 @@
           <mxGeometry x="474" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="290" y="790" width="270" height="60" as="geometry" />
+          <mxGeometry x="279" y="810" width="270" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
