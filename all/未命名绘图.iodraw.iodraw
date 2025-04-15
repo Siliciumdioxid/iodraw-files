@@ -82,6 +82,12 @@
         <mxCell id="tXSjWE5riUqoOoHvCYNQ-35" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="474" y="720" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tXSjWE5riUqoOoHvCYNQ-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.474;entryY=0.024;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="tXSjWE5riUqoOoHvCYNQ-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="370" y="840" as="sourcePoint" />
+            <mxPoint x="420" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
