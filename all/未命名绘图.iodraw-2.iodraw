@@ -11,7 +11,7 @@
           <mxGeometry x="360" y="215" width="170" height="205" as="geometry" />
         </mxCell>
         <mxCell id="5SThhOnY0wtXZMsGLImG-3" value="路径规划模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="360" y="510" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="105" width="170" height="70" as="geometry" />
         </mxCell>
         <mxCell id="5SThhOnY0wtXZMsGLImG-10" value="车辆跟踪" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="125" y="320" width="110" height="30" as="geometry" />
