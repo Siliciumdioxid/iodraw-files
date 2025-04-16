@@ -25,10 +25,10 @@
         <mxCell id="q-KL-HKGXx-4BIOIOYqu-3" value="无人机高空视频图像采集" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="100" width="160" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="q-KL-HKGXx-4BIOIOYqu-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q-KL-HKGXx-4BIOIOYqu-8" value="流量检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="230" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="q-KL-HKGXx-4BIOIOYqu-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="q-KL-HKGXx-4BIOIOYqu-9" value="车速检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="280" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="q-KL-HKGXx-4BIOIOYqu-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
