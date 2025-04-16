@@ -45,6 +45,14 @@
         <mxCell id="q-KL-HKGXx-4BIOIOYqu-11" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="460" width="110" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="q-KL-HKGXx-4BIOIOYqu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.584;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="5SThhOnY0wtXZMsGLImG-10" target="5SThhOnY0wtXZMsGLImG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="q-KL-HKGXx-4BIOIOYqu-15" value="车辆轨迹&lt;div&gt;车辆编号&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="q-KL-HKGXx-4BIOIOYqu-14">
+          <mxGeometry x="-0.0398" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
