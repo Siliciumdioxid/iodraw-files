@@ -7,14 +7,26 @@
         <mxCell id="2reZGKjMaWMd7Kgfj4G9-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1450" y="200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2reZGKjMaWMd7Kgfj4G9-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="2reZGKjMaWMd7Kgfj4G9-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="2reZGKjMaWMd7Kgfj4G9-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="230" y="470" as="sourcePoint" />
+            <mxPoint x="120" y="470" as="sourcePoint" />
+            <mxPoint x="330" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2reZGKjMaWMd7Kgfj4G9-10" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="2reZGKjMaWMd7Kgfj4G9-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="470" as="sourcePoint" />
             <mxPoint x="330" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2reZGKjMaWMd7Kgfj4G9-9" value="图像增强（拼接、放缩、对称、光照增强&lt;span style=&quot;background-color: initial;&quot;&gt;）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="95" y="380" width="250" height="30" as="geometry" />
+          <mxGeometry x="100" y="440" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2reZGKjMaWMd7Kgfj4G9-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="450" as="sourcePoint" />
+            <mxPoint x="280" y="400" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
