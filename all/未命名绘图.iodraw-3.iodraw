@@ -14,9 +14,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2reZGKjMaWMd7Kgfj4G9-7" value="&amp;nbsp; &amp;nbsp; &amp;nbsp; 原始数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2reZGKjMaWMd7Kgfj4G9-4">
+        <mxCell id="2reZGKjMaWMd7Kgfj4G9-7" value="原始数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2reZGKjMaWMd7Kgfj4G9-4">
           <mxGeometry x="-0.446" y="-1" relative="1" as="geometry">
-            <mxPoint x="15" as="offset" />
+            <mxPoint x="25" y="49" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2reZGKjMaWMd7Kgfj4G9-1" value="无人机搭载传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
