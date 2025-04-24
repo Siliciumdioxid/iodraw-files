@@ -9,6 +9,11 @@
             <mxPoint x="290" y="380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="2reZGKjMaWMd7Kgfj4G9-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2reZGKjMaWMd7Kgfj4G9-4">
+          <mxGeometry x="-0.4894" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2reZGKjMaWMd7Kgfj4G9-1" value="无人机搭载传感器" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="350" width="120" height="60" as="geometry" />
         </mxCell>
