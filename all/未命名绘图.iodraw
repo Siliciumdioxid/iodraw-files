@@ -16,13 +16,10 @@
             <mxPoint x="120" y="470" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2reZGKjMaWMd7Kgfj4G9-11" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="DlEhBMIkJo_poZzWzbzd-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="330" as="sourcePoint" />
-            <mxPoint x="630" y="330" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="390" y="180" />
-            </Array>
+            <mxPoint x="200" y="450" as="sourcePoint" />
+            <mxPoint x="470" y="460" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
