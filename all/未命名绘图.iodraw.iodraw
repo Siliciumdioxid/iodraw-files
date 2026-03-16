@@ -46,13 +46,13 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-15" value="保养" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="700" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-16" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="270" y="710" as="sourcePoint" />
-            <mxPoint x="320" y="660" as="targetPoint" />
+            <mxPoint x="304.06" y="535.9199999999998" as="sourcePoint" />
+            <mxPoint x="403.94" y="470" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="320" y="710" />
-              <mxPoint x="270" y="660" />
+              <mxPoint x="403.94" y="520" />
+              <mxPoint x="353.94" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
