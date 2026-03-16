@@ -68,8 +68,11 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-21" value="房子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-22" value="app 蔬菜石材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="620" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
