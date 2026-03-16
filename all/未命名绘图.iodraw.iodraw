@@ -25,8 +25,11 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-8" value="穿衣镜柜（镜柜）" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="480" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-9" value="洗衣机 烘干机&amp;nbsp;&lt;div&gt;洗烘一体&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="530" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
