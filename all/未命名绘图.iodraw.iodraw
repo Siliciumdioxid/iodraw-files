@@ -62,8 +62,8 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-18" value="分类搭配&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="850" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-19" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="200" y="770" width="60" height="30" as="geometry" />
+        <mxCell id="3pVl2bWAS3CXexelPUfo-20" value="家庭智能物流系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="430" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
