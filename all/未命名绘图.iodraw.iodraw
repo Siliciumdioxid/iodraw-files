@@ -142,8 +142,11 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-39" value="智能营养管家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-41" value="健康管家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="258" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-39" target="3pVl2bWAS3CXexelPUfo-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
