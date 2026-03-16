@@ -220,10 +220,10 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-62" value="学习助手&lt;div&gt;总结归纳发散&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1160" y="640" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-67" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-67" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.47;exitY=0.984;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="690" y="890" as="sourcePoint" />
-            <mxPoint x="740" y="840" as="targetPoint" />
+            <mxPoint x="766.3999999999999" y="800.0000000000002" as="sourcePoint" />
+            <mxPoint x="730" y="920.96" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
