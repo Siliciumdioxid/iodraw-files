@@ -139,6 +139,11 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-38" value="存储" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="625" y="228" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-39">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="369.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-39" value="智能营养管家" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="270" width="120" height="60" as="geometry" />
         </mxCell>
@@ -147,6 +152,9 @@
         </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.051;entryY=0.456;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-39" target="3pVl2bWAS3CXexelPUfo-41">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-44" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="545" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
