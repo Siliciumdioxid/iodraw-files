@@ -71,8 +71,21 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-22" value="app 蔬菜石材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="740" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-23" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-23" target="3pVl2bWAS3CXexelPUfo-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-23" value="外卖" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-24" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="650" as="sourcePoint" />
+            <mxPoint x="500" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="500" y="650" />
+              <mxPoint x="450" y="600" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
