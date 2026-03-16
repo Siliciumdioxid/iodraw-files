@@ -194,6 +194,11 @@
             <mxPoint x="1100" y="660" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-61" value="VLA模型" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="3pVl2bWAS3CXexelPUfo-60">
+          <mxGeometry x="1" y="4" relative="1" as="geometry">
+            <mxPoint x="3" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-59" value="ai agent" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="920" y="630" width="120" height="60" as="geometry" />
         </mxCell>
