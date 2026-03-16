@@ -59,6 +59,9 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-17" value="&lt;li style=&quot;color: rgb(0, 0, 0); font: 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 400; line-height: 24px; text-align: start; white-space: normal; display: list-item; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box; background-color: rgba(0, 0, 0, 0);&quot;&gt;除湿机（保护衣物不发霉）&lt;/li&gt;&#xa;&lt;li style=&quot;color: rgb(0, 0, 0); font: 16px / 24px ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-weight: 400; line-height: 24px; text-align: start; white-space: normal; display: list-item; flex: 0 1 auto; flex-direction: row; justify-content: normal; align-items: normal; padding: 0px; margin: 0px; background: rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box; background-color: rgba(0, 0, 0, 0);&quot;&gt;香薰衣柜、防虫樟木柜&lt;/li&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="75" y="770" width="230" height="90" as="geometry" />
         </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-18" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
