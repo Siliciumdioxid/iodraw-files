@@ -65,8 +65,14 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-20" value="家庭智能物流系统" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="720" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-21" target="3pVl2bWAS3CXexelPUfo-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-21" value="房子" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-22" target="3pVl2bWAS3CXexelPUfo-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-22" value="app 蔬菜石材" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="740" width="120" height="60" as="geometry" />
