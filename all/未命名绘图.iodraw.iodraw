@@ -105,7 +105,7 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.489;entryY=1.083;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-2" target="3pVl2bWAS3CXexelPUfo-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3pVl2bWAS3CXexelPUfo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-31">
+        <mxCell id="3pVl2bWAS3CXexelPUfo-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-31" target="3pVl2bWAS3CXexelPUfo-34">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="190" as="targetPoint" />
           </mxGeometry>
@@ -118,6 +118,15 @@
             <mxPoint x="380" y="170" as="sourcePoint" />
             <mxPoint x="430" y="120" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-34" target="3pVl2bWAS3CXexelPUfo-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-34" value="使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-35" value="使用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
