@@ -162,6 +162,11 @@
         <mxCell id="3pVl2bWAS3CXexelPUfo-50" value="饮水机" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="350" width="70" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="3pVl2bWAS3CXexelPUfo-57" value="加热" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3pVl2bWAS3CXexelPUfo-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="3pVl2bWAS3CXexelPUfo-51" value="智能躺椅" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="720" width="120" height="60" as="geometry" />
         </mxCell>
