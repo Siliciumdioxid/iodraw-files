@@ -85,8 +85,11 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-39" value="交通流检测" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="610" y="-110" width="150" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-41" value="RRT全局路径" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-41" value="目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="690" y="-100" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-42" value="目标追踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="-50" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
