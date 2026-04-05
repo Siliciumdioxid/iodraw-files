@@ -1,9 +1,12 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36 Edg/146.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="LWpiZ4Sxjlqqs2ttNHb_">
-    <mxGraphModel dx="1402" dy="1997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="668" dy="1563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ShpNeO37DKtkFpiU3BGc-9" target="ShpNeO37DKtkFpiU3BGc-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="440" height="80" as="geometry" />
         </mxCell>
@@ -57,6 +60,15 @@
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-28" value="MAVLink" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="510" y="192.5" width="100" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.509;entryY=1.037;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ShpNeO37DKtkFpiU3BGc-29" target="ShpNeO37DKtkFpiU3BGc-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="-80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="-80" />
+              <mxPoint x="422" y="-80" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-29" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="200" y="-60" width="440" height="180" as="geometry" />
