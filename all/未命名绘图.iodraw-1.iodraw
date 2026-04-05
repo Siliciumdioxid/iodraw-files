@@ -16,6 +16,9 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-5" value="硬件飞控层" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;size=0.25;textDirection=rtl;" vertex="1" parent="1">
           <mxGeometry x="130" y="230" width="60" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-6" value="硬件飞控层" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="360" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
