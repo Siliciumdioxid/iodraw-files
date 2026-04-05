@@ -61,6 +61,12 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-30" value="三维建图模块" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="240" y="-110" width="250" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="353" y="-100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-32" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="-50" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
