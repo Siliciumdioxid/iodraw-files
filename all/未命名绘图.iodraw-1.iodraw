@@ -55,6 +55,9 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-28" value="MAVLink" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-29" value="&#xa;三维建图模块&#xa;&#xa;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="210" y="-120" width="680" height="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
