@@ -94,10 +94,10 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-43" value="KDE提取拥堵点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="550" y="60" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;管控层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;管控层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="80" y="-180" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="195" y="-180" width="445" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-47" value="地面站" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
