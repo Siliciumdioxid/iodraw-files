@@ -79,13 +79,13 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-37" value="EGO-PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="10" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-38" value="线性插值优化" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-38" value="线性插值优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="414" y="60" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-39" value="交通流&lt;div&gt;&amp;nbsp; 检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="500" y="-50" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-41" value="YOLO目标检测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-41" value="YOLO目标检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="550" y="-40" width="60" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-42" value="BOT-SORT目标追踪" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
