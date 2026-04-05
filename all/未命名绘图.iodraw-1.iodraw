@@ -31,9 +31,6 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-15" value="&amp;nbsp; &amp;nbsp;ROS&lt;div&gt;操作系统&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="200" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ShpNeO37DKtkFpiU3BGc-16" target="ShpNeO37DKtkFpiU3BGc-17">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-16" value="MAVROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="177.5" width="120" height="30" as="geometry" />
         </mxCell>
@@ -50,7 +47,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-26" value="&lt;span style=&quot;text-align: left;&quot;&gt;核心算法层&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="80" y="-120" width="80" height="180" as="geometry" />
+          <mxGeometry x="80" y="-60" width="80" height="180" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-27" value="&amp;nbsp; &amp;nbsp; 机载&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;地面通信&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="440" y="170" width="170" height="100" as="geometry" />
