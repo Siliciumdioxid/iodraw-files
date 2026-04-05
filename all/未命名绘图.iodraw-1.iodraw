@@ -97,8 +97,8 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-45" value="&lt;div style=&quot;text-align: left;&quot;&gt;管控层&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="80" y="-340" width="80" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="210" y="-110" width="680" height="180" as="geometry" />
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-46" value="地面站" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="190" y="-340" width="680" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
