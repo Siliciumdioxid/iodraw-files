@@ -70,11 +70,11 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-33" value="地图匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-34" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-34" value="&amp;nbsp; 路径规划" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="414" y="-110" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-35" value="点云特征提取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="-90" width="50" height="40" as="geometry" />
+          <mxGeometry x="490" y="-100" width="50" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
