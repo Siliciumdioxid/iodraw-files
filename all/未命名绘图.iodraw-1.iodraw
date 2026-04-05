@@ -65,10 +65,10 @@
           <mxGeometry x="320" y="-100" width="47" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-32" value="IMU预积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="-50" width="120" height="40" as="geometry" />
+          <mxGeometry x="321" y="-50" width="46" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-33" value="地图匹配" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="353" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
