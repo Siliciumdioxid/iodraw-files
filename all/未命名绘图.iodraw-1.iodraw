@@ -34,7 +34,7 @@
         <mxCell id="ShpNeO37DKtkFpiU3BGc-16" value="MAVROS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="120" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ShpNeO37DKtkFpiU3BGc-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ShpNeO37DKtkFpiU3BGc-17" value="Gazebo通讯" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="353" y="200" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
