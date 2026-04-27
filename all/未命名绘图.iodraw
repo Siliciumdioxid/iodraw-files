@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-2" target="MAMu_Oz9Vy7BTNpWj7eI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;原始点云输入&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="-40" width="160" height="60" as="geometry" />
         </mxCell>
@@ -34,8 +37,14 @@
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;三维建图模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="280" y="520" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-13" target="MAMu_Oz9Vy7BTNpWj7eI-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IMU输入&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="-40" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-14" target="MAMu_Oz9Vy7BTNpWj7eI-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IMU零偏补偿&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="40" width="160" height="60" as="geometry" />
@@ -47,6 +56,9 @@
           <mxGeometry x="280" y="60" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.005;entryY=0.377;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-15" target="MAMu_Oz9Vy7BTNpWj7eI-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-16" target="MAMu_Oz9Vy7BTNpWj7eI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
