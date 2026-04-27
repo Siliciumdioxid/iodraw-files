@@ -38,10 +38,10 @@
           <mxGeometry x="280" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IMU输入&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="640" y="70" width="160" height="60" as="geometry" />
+          <mxGeometry x="640" y="80" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;平面点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="640" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="640" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;平面点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="640" y="280" width="160" height="60" as="geometry" />
