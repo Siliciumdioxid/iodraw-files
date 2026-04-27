@@ -61,6 +61,9 @@
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-16" target="MAMu_Oz9Vy7BTNpWj7eI-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;预积分模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="650" y="280" width="160" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
