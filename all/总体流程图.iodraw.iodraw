@@ -4,14 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dJPLXHutRVhAvZvCJwGy-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="dJPLXHutRVhAvZvCJwGy-8" target="dJPLXHutRVhAvZvCJwGy-12" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="dJPLXHutRVhAvZvCJwGy-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;三维建图模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="500" y="230" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="dJPLXHutRVhAvZvCJwGy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dJPLXHutRVhAvZvCJwGy-11" target="dJPLXHutRVhAvZvCJwGy-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dJPLXHutRVhAvZvCJwGy-11" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;开始&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="280" y="80" width="160" height="60" as="geometry" />
@@ -28,17 +22,8 @@
         <mxCell id="dJPLXHutRVhAvZvCJwGy-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="280" y="590" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dJPLXHutRVhAvZvCJwGy-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FDp4mG0tqXNI9qQHnk0M-1" target="dJPLXHutRVhAvZvCJwGy-14" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="FDp4mG0tqXNI9qQHnk0M-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJPLXHutRVhAvZvCJwGy-13" target="FDp4mG0tqXNI9qQHnk0M-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="500" as="sourcePoint" />
-            <mxPoint x="360" y="590" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="290" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="170" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
