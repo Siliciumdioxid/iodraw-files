@@ -1,0 +1,174 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
+  <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
+    <mxGraphModel dx="1402" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
+        <mxCell id="YjXzwQQ7c9gTUuSNMwff-0" value="地面控制站" style="rounded=0;whiteSpace=wrap;html=1;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="280" y="80" width="300" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-1" value="自定义监控界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-2" value="ROS应用节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="440" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-3" value="QGroundControl" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="300" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-7" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;MAVROS桥接层&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="430" y="320" width="150" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-8" value="MAVROS节点" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="447.5" y="370" width="115" height="52.5" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-21" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-1" target="VUTHVZP_Inik0Db68CQK-2" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-22" value="ROS1 DDS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-21" vertex="1" connectable="0">
+          <mxGeometry x="0.0754" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-23" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-2" target="VUTHVZP_Inik0Db68CQK-8" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-24" value="ROS2 DDS" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-23" vertex="1" connectable="0">
+          <mxGeometry x="-0.1161" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-25" value="PX4仿真层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="294" y="480" width="240" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-26" value="PX4 SITL" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="510" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-3" target="VUTHVZP_Inik0Db68CQK-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-28" value="MAVLink UDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-27" vertex="1" connectable="0">
+          <mxGeometry x="-0.0337" y="-3" relative="1" as="geometry">
+            <mxPoint x="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-29" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-8" target="VUTHVZP_Inik0Db68CQK-26" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="380" as="sourcePoint" />
+            <mxPoint x="440" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-30" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0494" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-31" value="MAVLink UDP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-29" vertex="1" connectable="0">
+          <mxGeometry x="-0.0124" relative="1" as="geometry">
+            <mxPoint x="12" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-32" value="Gazebo仿真层" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="54" y="660" width="720" height="390" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-33" value="仿真环境" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="90" y="830" width="120" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-34" value="物理引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="100" y="860" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-35" value="3D世界" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="100" y="940" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-36" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-34" target="VUTHVZP_Inik0Db68CQK-35" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="328.08695652173924" y="820" as="sourcePoint" />
+            <mxPoint x="310" y="900" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-37" value="Gazebo引擎" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="354" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-38" value="无人机模型" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="260" y="800" width="500" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-39" value="无人机实体" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="452.5" y="825" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-40" value="IMU传感器插件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="270" y="950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-41" value="GPS传感器插件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="390" y="950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-42" value="摄像头插件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-43" value="激光雷达插件" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="640" y="950" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-45" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.132;exitY=0.943;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.9999999999999" y="761.5799999999999" as="sourcePoint" />
+            <mxPoint x="516.5222483600995" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-47" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-39" target="VUTHVZP_Inik0Db68CQK-40" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-48" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="VUTHVZP_Inik0Db68CQK-41" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="870" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-39" target="VUTHVZP_Inik0Db68CQK-42" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-50" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-39" target="VUTHVZP_Inik0Db68CQK-43" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-52" value="" style="endArrow=classic;html=1;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-39" target="VUTHVZP_Inik0Db68CQK-34" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-54" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.582;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="VUTHVZP_Inik0Db68CQK-26" target="VUTHVZP_Inik0Db68CQK-37" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="780" as="sourcePoint" />
+            <mxPoint x="440" y="730" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-55" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.0108" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VUTHVZP_Inik0Db68CQK-56" value="MAVLink TCP" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="VUTHVZP_Inik0Db68CQK-54" vertex="1" connectable="0">
+          <mxGeometry x="-0.0081" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
