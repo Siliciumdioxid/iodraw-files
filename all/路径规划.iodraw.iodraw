@@ -43,8 +43,8 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;EGO-PLANNER实时避障&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;插入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="555" width="160" height="60" as="geometry" />
+        <mxCell id="jAadi5PRc1YaWNrjISoa-15" value="新路径" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="555" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
