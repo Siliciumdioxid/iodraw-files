@@ -52,6 +52,9 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入到控制节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="525" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jAadi5PRc1YaWNrjISoa-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.723;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-4" target="jAadi5PRc1YaWNrjISoa-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
