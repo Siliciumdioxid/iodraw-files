@@ -16,7 +16,7 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;随机采样节点Xrand&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="320" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;找到列表中最近的节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="jAadi5PRc1YaWNrjISoa-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;找到列表中距Xrand最近的节点Xnear&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;产生新节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
