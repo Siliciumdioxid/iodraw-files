@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dJPLXHutRVhAvZvCJwGy-8" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;三维建图模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="280" y="200" width="160" height="60" as="geometry" />
+          <mxGeometry x="500" y="230" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJPLXHutRVhAvZvCJwGy-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="dJPLXHutRVhAvZvCJwGy-11" target="dJPLXHutRVhAvZvCJwGy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -38,7 +38,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="520" width="160" height="60" as="geometry" />
+          <mxGeometry x="290" y="180" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
