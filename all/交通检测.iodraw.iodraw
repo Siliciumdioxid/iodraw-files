@@ -11,7 +11,7 @@
           <mxGeometry x="320" y="160" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;YOLO检测器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="160" width="160" height="60" as="geometry" />
+          <mxGeometry x="80" y="180" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;高置信度检测框&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="280" width="160" height="60" as="geometry" />
@@ -40,11 +40,11 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹管理：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新卡尔曼滤波器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新外观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;创建新轨迹&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;丢弃不匹配的轨迹&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="175" y="620" width="250" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="190" y="850" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="58l3if_X8FyrjJCeKaOb-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="840" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-2" target="58l3if_X8FyrjJCeKaOb-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
