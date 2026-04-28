@@ -64,6 +64,14 @@
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-16" target="MAMu_Oz9Vy7BTNpWj7eI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jyqFrVto2ASIWkW0Pu9J-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-23" target="MAMu_Oz9Vy7BTNpWj7eI-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="430" />
+              <mxPoint x="420" y="430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-23" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IMU位置残差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="640" y="330" width="160" height="60" as="geometry" />
         </mxCell>
@@ -83,7 +91,7 @@
           <mxGeometry x="380" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;边缘点到线残差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="620" y="420" width="160" height="60" as="geometry" />
+          <mxGeometry x="630" y="510" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
