@@ -34,6 +34,9 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;低置信度检测框&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-8" target="58l3if_X8FyrjJCeKaOb-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;卡尔曼滤波&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="400" y="280" width="160" height="60" as="geometry" />
         </mxCell>
@@ -69,15 +72,6 @@
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-2" target="58l3if_X8FyrjJCeKaOb-5">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-8" target="58l3if_X8FyrjJCeKaOb-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="480" y="417" />
-              <mxPoint x="180" y="417" />
-              <mxPoint x="180" y="547" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
