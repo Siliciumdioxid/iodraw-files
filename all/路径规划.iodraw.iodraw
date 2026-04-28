@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jAadi5PRc1YaWNrjISoa-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-26" y="315" width="440" height="430" as="geometry" />
+        </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-1" target="jAadi5PRc1YaWNrjISoa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -48,9 +51,6 @@
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入到控制节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="620" y="410" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="290" width="440" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
