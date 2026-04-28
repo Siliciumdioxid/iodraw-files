@@ -28,7 +28,7 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;卡尔曼滤波&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="810" y="280" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-12" value="轨迹仓库" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="58l3if_X8FyrjJCeKaOb-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;轨迹仓库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="418" y="410" width="156" height="60" as="geometry" />
         </mxCell>
       </root>
