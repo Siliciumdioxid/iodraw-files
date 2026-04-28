@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;高置信度检测框&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="280" width="160" height="60" as="geometry" />
+          <mxGeometry x="150" y="290" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-7" target="58l3if_X8FyrjJCeKaOb-14">
           <mxGeometry relative="1" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-11" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;深度外观提取&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry y="380" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-12" target="58l3if_X8FyrjJCeKaOb-8">
           <mxGeometry relative="1" as="geometry" />
@@ -70,13 +70,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ReID匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="380" y="510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-14" target="58l3if_X8FyrjJCeKaOb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IOU关联匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="-130" y="520" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹管理：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新卡尔曼滤波器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新外观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;创建新轨迹&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;丢弃不匹配的轨迹&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="164" y="620" width="250" height="140" as="geometry" />
