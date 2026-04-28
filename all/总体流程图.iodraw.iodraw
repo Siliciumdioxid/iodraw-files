@@ -23,7 +23,7 @@
           <mxGeometry x="280" y="500" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dJPLXHutRVhAvZvCJwGy-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="280" y="630" width="160" height="60" as="geometry" />
+          <mxGeometry x="270" y="680" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="FDp4mG0tqXNI9qQHnk0M-1" target="dJPLXHutRVhAvZvCJwGy-8">
           <mxGeometry relative="1" as="geometry" />
@@ -31,8 +31,13 @@
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-1" value="是否接到任务启动命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="230" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="FDp4mG0tqXNI9qQHnk0M-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDp4mG0tqXNI9qQHnk0M-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-3" value="是否接到任务启动命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="280" y="570" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="590" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJPLXHutRVhAvZvCJwGy-11" target="FDp4mG0tqXNI9qQHnk0M-1">
           <mxGeometry relative="1" as="geometry" />
