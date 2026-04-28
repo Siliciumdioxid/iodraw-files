@@ -22,20 +22,19 @@
         <mxCell id="dJPLXHutRVhAvZvCJwGy-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结束&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="280" y="630" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FDp4mG0tqXNI9qQHnk0M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDp4mG0tqXNI9qQHnk0M-1">
+        <mxCell id="FDp4mG0tqXNI9qQHnk0M-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FDp4mG0tqXNI9qQHnk0M-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="360" y="160" />
-              <mxPoint x="361" y="160" />
-            </Array>
+            <mxPoint x="560" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-1" value="是否接到任务启动命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="300" y="320" width="160" height="60" as="geometry" />
+          <mxGeometry x="280" y="230" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FDp4mG0tqXNI9qQHnk0M-3" value="是否接到任务启动命令" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="550" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FDp4mG0tqXNI9qQHnk0M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dJPLXHutRVhAvZvCJwGy-11" target="FDp4mG0tqXNI9qQHnk0M-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
