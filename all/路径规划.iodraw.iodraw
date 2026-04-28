@@ -37,11 +37,14 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-10" target="jAadi5PRc1YaWNrjISoa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jAadi5PRc1YaWNrjISoa-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-10" target="jAadi5PRc1YaWNrjISoa-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;EGO-PLANNER实时避障&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="440" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;插入&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="610" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="555" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
