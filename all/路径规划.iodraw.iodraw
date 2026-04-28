@@ -8,7 +8,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-1" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;交通检测输出新节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="440" y="330" width="160" height="60" as="geometry" />
+          <mxGeometry x="440" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-2" target="jAadi5PRc1YaWNrjISoa-3">
           <mxGeometry relative="1" as="geometry" />
