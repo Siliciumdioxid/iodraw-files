@@ -59,10 +59,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="jAadi5PRc1YaWNrjISoa-50" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jAadi5PRc1YaWNrjISoa-44">
+          <mxGeometry x="-0.8504" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-39" target="jAadi5PRc1YaWNrjISoa-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jAadi5PRc1YaWNrjISoa-46">
+        <mxCell id="jAadi5PRc1YaWNrjISoa-49" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jAadi5PRc1YaWNrjISoa-46">
           <mxGeometry x="-0.3505" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
