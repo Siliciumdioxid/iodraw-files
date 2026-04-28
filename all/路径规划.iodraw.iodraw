@@ -63,8 +63,8 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入到控制节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="190" height="60" as="geometry" />
+        <mxCell id="jAadi5PRc1YaWNrjISoa-39" value="有无路径更新" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="500" y="210" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
