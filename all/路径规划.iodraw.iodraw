@@ -13,11 +13,14 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;开始&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jAadi5PRc1YaWNrjISoa-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-3" target="jAadi5PRc1YaWNrjISoa-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;将预定义关键点或拥堵点加入列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;生成初始序列&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="330" width="160" height="60" as="geometry" />
+          <mxGeometry x="40" y="330" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-5" target="jAadi5PRc1YaWNrjISoa-6">
           <mxGeometry relative="1" as="geometry" />
