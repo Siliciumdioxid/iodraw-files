@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 Edg/147.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="0HwLu8vIVefyTuzWORb5">
-    <mxGraphModel dx="2003" dy="2352" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1168" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -107,8 +107,8 @@
         <mxCell id="Wk8OAzzrSyu34LwftOaY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.482;entryY=-0.007;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MAMu_Oz9Vy7BTNpWj7eI-3" target="MAMu_Oz9Vy7BTNpWj7eI-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Wk8OAzzrSyu34LwftOaY-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;Ceres优化器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="390" y="500" width="160" height="60" as="geometry" />
+        <mxCell id="Wk8OAzzrSyu34LwftOaY-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;全局地图&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="390" y="710" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
