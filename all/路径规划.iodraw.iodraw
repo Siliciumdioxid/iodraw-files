@@ -23,7 +23,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;加入新节点到列表中&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="370" y="470" width="160" height="60" as="geometry" />
+          <mxGeometry x="414" y="440" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查找新节点附近K个最近节点并计算插入成本&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="370" y="590" width="160" height="80" as="geometry" />
@@ -52,7 +52,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.813;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-39" target="jAadi5PRc1YaWNrjISoa-5">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="490" y="390" />
+              <mxPoint x="490" y="440" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
