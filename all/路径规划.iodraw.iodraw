@@ -20,10 +20,7 @@
           <mxGeometry x="200" y="400" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查找新节点附近K个最近节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="510" width="160" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-7" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="640" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="480" width="160" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
