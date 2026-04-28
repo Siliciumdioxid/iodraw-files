@@ -77,6 +77,11 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-13" target="58l3if_X8FyrjJCeKaOb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-44" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="58l3if_X8FyrjJCeKaOb-41">
+          <mxGeometry x="-0.0419" y="4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ReID匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="160" height="60" as="geometry" />
         </mxCell>
