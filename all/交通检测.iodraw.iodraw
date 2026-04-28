@@ -85,10 +85,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IOU关联匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-40" y="570" width="160" height="60" as="geometry" />
+          <mxGeometry x="-40" y="510" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹管理：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新卡尔曼滤波器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新外观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;创建新轨迹&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;丢弃不匹配的轨迹&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="164" y="620" width="250" height="140" as="geometry" />
+          <mxGeometry x="155" y="620" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="840" width="160" height="60" as="geometry" />
