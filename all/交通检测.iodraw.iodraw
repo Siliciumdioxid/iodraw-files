@@ -64,7 +64,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-49" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="58l3if_X8FyrjJCeKaOb-26">
+        <mxCell id="58l3if_X8FyrjJCeKaOb-49" value="上一帧运动轨迹" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="58l3if_X8FyrjJCeKaOb-26">
           <mxGeometry x="-0.3217" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
