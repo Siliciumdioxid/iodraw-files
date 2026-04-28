@@ -31,6 +31,9 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;高置信度检测框&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry y="280" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-7" target="58l3if_X8FyrjJCeKaOb-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;低置信度检测框&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="160" height="60" as="geometry" />
         </mxCell>
@@ -60,26 +63,35 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;轨迹仓库&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="600" y="280" width="156" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-13" target="58l3if_X8FyrjJCeKaOb-15">
+        <mxCell id="58l3if_X8FyrjJCeKaOb-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-14" target="58l3if_X8FyrjJCeKaOb-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-13" target="58l3if_X8FyrjJCeKaOb-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ReID匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="510" width="160" height="60" as="geometry" />
+          <mxGeometry x="480" y="500" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IOU关联匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="320" y="510" width="160" height="60" as="geometry" />
+        <mxCell id="58l3if_X8FyrjJCeKaOb-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-14" target="58l3if_X8FyrjJCeKaOb-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-15" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹管理：&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新卡尔曼滤波器&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;更新外观信息&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;创建新轨迹&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;丢弃不匹配的轨迹&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="100" y="620" width="250" height="140" as="geometry" />
+          <mxGeometry x="164" y="620" width="250" height="140" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;轨迹&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="240" y="840" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-2" target="58l3if_X8FyrjJCeKaOb-5">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-13" target="58l3if_X8FyrjJCeKaOb-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="530" as="sourcePoint" />
+            <mxPoint x="289" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IOU关联匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="180" y="525" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
