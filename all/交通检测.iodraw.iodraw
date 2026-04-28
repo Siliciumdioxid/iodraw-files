@@ -82,15 +82,8 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.563;entryY=-0.012;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-2" target="58l3if_X8FyrjJCeKaOb-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="58l3if_X8FyrjJCeKaOb-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="414" y="675" as="sourcePoint" />
-            <mxPoint x="684" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="664" y="675" />
-              <mxPoint x="664" y="370" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-15" target="58l3if_X8FyrjJCeKaOb-12">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
