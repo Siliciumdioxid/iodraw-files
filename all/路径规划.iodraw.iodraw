@@ -41,7 +41,7 @@
           <mxGeometry x="330" y="430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查找新节点附近K个最近节点并计算插入成本&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="520" width="160" height="80" as="geometry" />
+          <mxGeometry x="320" y="520" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-10" target="jAadi5PRc1YaWNrjISoa-22">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry x="440" y="525" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-15" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;新路径&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="630" width="160" height="60" as="geometry" />
+          <mxGeometry x="320" y="630" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入到控制节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="640" y="525" width="160" height="60" as="geometry" />
