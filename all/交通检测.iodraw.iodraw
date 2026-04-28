@@ -70,8 +70,7 @@
         <mxCell id="58l3if_X8FyrjJCeKaOb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-13" target="58l3if_X8FyrjJCeKaOb-14">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="410" />
-              <mxPoint x="360" y="470" />
+              <mxPoint x="400" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -80,6 +79,13 @@
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-13" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;ReID匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="380" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="58l3if_X8FyrjJCeKaOb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="58l3if_X8FyrjJCeKaOb-14" target="58l3if_X8FyrjJCeKaOb-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="60" y="655" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="58l3if_X8FyrjJCeKaOb-14" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;IOU关联匹配&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-20" y="440" width="160" height="60" as="geometry" />
