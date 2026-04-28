@@ -10,8 +10,8 @@
         <mxCell id="jAadi5PRc1YaWNrjISoa-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;预定义关键坐标&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jAadi5PRc1YaWNrjISoa-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;点云去畸变&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="220" y="350" width="160" height="60" as="geometry" />
+        <mxCell id="jAadi5PRc1YaWNrjISoa-3" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;将预定义的节点加入列表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;预积分模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="220" y="440" width="160" height="60" as="geometry" />
