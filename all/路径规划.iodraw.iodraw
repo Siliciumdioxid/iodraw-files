@@ -29,7 +29,12 @@
           <mxGeometry x="200" y="160" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="jAadi5PRc1YaWNrjISoa-4" target="jAadi5PRc1YaWNrjISoa-10">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="600" y="310" />
+              <mxPoint x="600" y="710" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-4" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;生成初始路径&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="280" width="160" height="60" as="geometry" />
@@ -57,6 +62,9 @@
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-22" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输入到控制节点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="760" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jAadi5PRc1YaWNrjISoa-39" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="510" y="190" width="220" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
