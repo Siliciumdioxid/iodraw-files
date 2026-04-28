@@ -17,16 +17,16 @@
           <mxGeometry x="200" y="320" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;加入新节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="450" y="420" width="160" height="60" as="geometry" />
+          <mxGeometry x="430" y="430" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-6" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查找新节点附近K个最近节点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="620" width="160" height="80" as="geometry" />
+          <mxGeometry x="420" y="545" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-8" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;计算插入成本&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="200" y="730" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jAadi5PRc1YaWNrjISoa-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;EGO-PLANNER实时避障&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="200" y="430" width="160" height="60" as="geometry" />
+          <mxGeometry x="200" y="420" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
