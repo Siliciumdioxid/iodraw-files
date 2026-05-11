@@ -16,11 +16,6 @@
             <mxPoint x="275" y="780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tf9-RbxkCjdPOrWaR8se-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="tf9-RbxkCjdPOrWaR8se-7">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="410" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-5" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;输出轨迹&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="195" y="780" width="160" height="60" as="geometry" />
         </mxCell>
