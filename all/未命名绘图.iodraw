@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="70" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-2" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;YOLO检测器&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="80" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="200" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -25,14 +25,8 @@
         <mxCell id="tf9-RbxkCjdPOrWaR8se-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;计算车辆位置与速度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="425" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tf9-RbxkCjdPOrWaR8se-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tf9-RbxkCjdPOrWaR8se-9" target="tf9-RbxkCjdPOrWaR8se-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;计算交通核密度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="525" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tf9-RbxkCjdPOrWaR8se-10" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;得出交通拥堵点&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="210" y="625" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;交通拥堵点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="720" width="160" height="60" as="geometry" />
