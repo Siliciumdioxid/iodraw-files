@@ -106,9 +106,6 @@
         <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;平面点到面残差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="380" y="330" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MAMu_Oz9Vy7BTNpWj7eI-27" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;边缘点到线残差&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="630" y="510" width="160" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Wk8OAzzrSyu34LwftOaY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Wk8OAzzrSyu34LwftOaY-1" target="Wk8OAzzrSyu34LwftOaY-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
