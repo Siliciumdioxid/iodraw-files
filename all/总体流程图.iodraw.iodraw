@@ -182,12 +182,17 @@
         </mxCell>
         <mxCell id="_9ySm5csl53AgTG5ll-e-49" value="&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;标记拥堵区域为ROI关键节点&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9ySm5csl53AgTG5ll-e-48">
           <mxGeometry x="-0.0715" y="-3" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
+            <mxPoint x="103" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9ySm5csl53AgTG5ll-e-50" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9ySm5csl53AgTG5ll-e-48">
           <mxGeometry x="-0.5512" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_9ySm5csl53AgTG5ll-e-51" value="t&lt;span style=&quot;font-size: 12px; white-space: normal;&quot;&gt;标记拥堵区域为ROI关键节点&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="_9ySm5csl53AgTG5ll-e-48">
+          <mxGeometry x="-0.5323" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9ySm5csl53AgTG5ll-e-44" value="目标检测与跟踪模块" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
