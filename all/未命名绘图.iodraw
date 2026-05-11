@@ -28,20 +28,14 @@
         <mxCell id="tf9-RbxkCjdPOrWaR8se-7" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;计算车辆位置与速度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="380" width="160" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="tf9-RbxkCjdPOrWaR8se-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tf9-RbxkCjdPOrWaR8se-9" target="tf9-RbxkCjdPOrWaR8se-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-9" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;计算交通核密度&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="210" y="470" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tf9-RbxkCjdPOrWaR8se-12" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;交通拥堵点&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="210" y="560" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="tf9-RbxkCjdPOrWaR8se-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="tf9-RbxkCjdPOrWaR8se-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="280" y="570" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="290" y="560" />
-              <mxPoint x="278" y="560" />
-            </Array>
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
