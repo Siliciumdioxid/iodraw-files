@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_9ySm5csl53AgTG5ll-e-1" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: ui-sans-serif, system-ui, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; font-size: 16px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: pre; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;flowchart TD&#xa;    A[系统启动] --&amp;gt; B[预设航线规划与参数配置]&#xa;    B --&amp;gt; C[无人机起飞并按预设航线自主巡航]&#xa;    C --&amp;gt; D[机载成像设备+雷达实时数据采集]&#xa;    D --&amp;gt; E{目标检测与跟踪模块}&#xa;    E --&amp;gt; F[识别路面车辆并持续跟踪]&#xa;    F --&amp;gt; G[输出车辆位置/轨迹/速度参数]&#xa;    G --&amp;gt; H[核密度分析模块]&#xa;    H --&amp;gt; I[识别拥堵点位与拥堵程度]&#xa;    I --&amp;gt; J[标记拥堵区域为ROI关键节点]&#xa;    J --&amp;gt; K{路径更新判断}&#xa;    K -- 是 --&amp;gt; L[新节点加入路径规划列表]&#xa;    L --&amp;gt; M[计算节点插入成本并生成新路径]&#xa;    M --&amp;gt; N&#xa;    K -- 否 --&amp;gt; N[雷达建模与局部路径规划]&#xa;    N --&amp;gt; O[EGO-PLANNER实时避障优化]&#xa;    O --&amp;gt; P[输出控制指令到无人机控制节点]&#xa;    P --&amp;gt; Q[无人机执行飞行与重点区域巡检]&#xa;    Q --&amp;gt; R[数据回传与结果存储]&#xa;    R --&amp;gt; C&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="690" y="260" width="370" height="410" as="geometry" />
-        </mxCell>
         <mxCell id="_9ySm5csl53AgTG5ll-e-2" value="系统启动" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="916" y="690" width="124" height="49" as="geometry" />
         </mxCell>
@@ -66,9 +63,10 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_9ySm5csl53AgTG5ll-e-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_9ySm5csl53AgTG5ll-e-1" target="_9ySm5csl53AgTG5ll-e-4">
+        <mxCell id="_9ySm5csl53AgTG5ll-e-21" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0.5;entryY=-0.01;rounded=0;exitDx=0;exitDy=0;" edge="1" parent="1" target="_9ySm5csl53AgTG5ll-e-4">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
+            <mxPoint x="1060" y="465" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="_9ySm5csl53AgTG5ll-e-22" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.32;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="_9ySm5csl53AgTG5ll-e-4" target="_9ySm5csl53AgTG5ll-e-5">
@@ -169,6 +167,9 @@
               <mxPoint x="1074" y="979" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="_9ySm5csl53AgTG5ll-e-39" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;航拍视频&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="538" y="240" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
