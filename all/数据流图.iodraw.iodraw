@@ -192,7 +192,7 @@
           <mxGeometry x="350" y="340" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-80" value="P1.4" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="560" width="100" height="20" as="geometry" />
+          <mxGeometry x="350" y="320" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-82" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;停车记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="490" y="650" width="120" height="30" as="geometry" />
@@ -213,12 +213,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-79" target="mHXOzF-8Q_os6TAiL9U8-28">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-87" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-79" target="mHXOzF-8Q_os6TAiL9U8-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="590" as="sourcePoint" />
             <mxPoint x="280" y="540" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="205" y="605" />
+              <mxPoint x="205" y="365" />
             </Array>
           </mxGeometry>
         </mxCell>
