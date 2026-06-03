@@ -376,14 +376,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-176" target="mHXOzF-8Q_os6TAiL9U8-182">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="760" y="1098" />
-              <mxPoint x="850" y="1098" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-176" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;用户&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="710" y="970" width="100" height="50" as="geometry" />
         </mxCell>
@@ -422,6 +414,12 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-197" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;车位信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="940" y="1130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-200" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="890" y="1170" as="sourcePoint" />
+            <mxPoint x="940" y="1120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
