@@ -181,7 +181,7 @@
             <mxPoint x="379.71" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-79" value="收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-79" value="信息查询系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-80" value="P1.4" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
