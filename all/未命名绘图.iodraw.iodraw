@@ -43,6 +43,11 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="560" y="310" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="330" />
+              <mxPoint x="480" y="330" />
+              <mxPoint x="480" y="310" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-13" value="校园停车收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
