@@ -101,6 +101,9 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-48" value="停车事务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460.00310344827597" y="255" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-49" value="系统管理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="450.00310344827597" y="295" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
