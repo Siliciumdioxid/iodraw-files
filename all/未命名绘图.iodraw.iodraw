@@ -5,7 +5,16 @@
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
         <mxCell id="62wviir1sbS9VPAUtQGh-1" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:14.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;校园门禁停车收费系统&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="410" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62wviir1sbS9VPAUtQGh-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="650" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62wviir1sbS9VPAUtQGh-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="62wviir1sbS9VPAUtQGh-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="510" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
