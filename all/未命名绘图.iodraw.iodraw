@@ -189,10 +189,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-79" value="信息查询系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="580" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-80" value="P1.4" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="100" height="20" as="geometry" />
+          <mxGeometry x="470" y="560" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-82" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;停车记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="490" y="640" width="120" height="30" as="geometry" />
