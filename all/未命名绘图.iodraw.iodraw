@@ -71,9 +71,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-65" value="付款" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-62">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-65" value="付款结算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-62">
           <mxGeometry x="0.2973" y="-1" relative="1" as="geometry">
-            <mxPoint x="5" as="offset" />
+            <mxPoint x="5" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-28" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;用户&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
