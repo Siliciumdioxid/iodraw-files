@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rg7-FN4UtOsFe6tv0FMp">
-    <mxGraphModel dx="605" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="730" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-18" value="停车事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-16">
           <mxGeometry x="-0.1503" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="6" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-2" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;用户&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
@@ -48,7 +48,7 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-21" value="停车事务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-19">
           <mxGeometry x="0.0435" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="10" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-13">
@@ -62,7 +62,7 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-25" value="系统管理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-24">
           <mxGeometry x="0.0322" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="41" y="-81" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-13" value="校园停车收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
