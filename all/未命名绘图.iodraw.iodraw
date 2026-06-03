@@ -31,11 +31,11 @@
         <mxCell id="62wviir1sbS9VPAUtQGh-11" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆入场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="950" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="62wviir1sbS9VPAUtQGh-12" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆出场登记&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="62wviir1sbS9VPAUtQGh-12" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆出场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1010" y="600" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="62wviir1sbS9VPAUtQGh-13" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;收费标准设置&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="600" width="40" height="180" as="geometry" />
+          <mxGeometry x="1120" y="600" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="62wviir1sbS9VPAUtQGh-14" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;剩余车位查询&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="800" y="600" width="40" height="180" as="geometry" />
