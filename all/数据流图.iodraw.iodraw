@@ -371,7 +371,7 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-172" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-176" target="mHXOzF-8Q_os6TAiL9U8-179">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-198" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-172">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-198" value="车位查询" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-172">
           <mxGeometry x="-0.1797" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -398,7 +398,7 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-178" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-179" target="mHXOzF-8Q_os6TAiL9U8-180">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-179" value="剩余车位查询" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-179" value="车位引导" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-180" value="P2.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
