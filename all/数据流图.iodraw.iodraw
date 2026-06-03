@@ -323,19 +323,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-132" value="D3&amp;nbsp; &amp;nbsp; &amp;nbsp;收费规则表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="365" y="1415" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-133" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="335" y="1490" as="sourcePoint" />
-            <mxPoint x="334.71" y="1470" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="320" y="1470" />
-            </Array>
-          </mxGeometry>
+          <mxGeometry x="335" y="1415" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-134" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;停车记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="535" y="1415" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-137" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="1480" as="sourcePoint" />
+            <mxPoint x="430" y="1430" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
