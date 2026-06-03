@@ -33,9 +33,13 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="340.0044827586207" as="sourcePoint" />
             <mxPoint x="200" y="364.9699999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="370" y="410" />
+              <mxPoint x="200" y="410" />
+            </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-21" value="收费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-19">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-21" value="停车事务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-19">
           <mxGeometry x="0.0435" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
