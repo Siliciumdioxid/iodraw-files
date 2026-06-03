@@ -46,7 +46,7 @@
             <mxPoint x="240" y="370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-19" value="" style="endArrow=none;html=1;rounded=0;exitX=0.914;exitY=0.246;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.004;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-1" target="BkF-rfjGfaoiC2ZVsDny-2">
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-19" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.004;entryY=0.582;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-1" target="BkF-rfjGfaoiC2ZVsDny-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="160" y="410" as="sourcePoint" />
             <mxPoint x="210" y="360" as="targetPoint" />
@@ -91,9 +91,6 @@
             <mxPoint x="560" y="370" as="sourcePoint" />
             <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-29" target="BkF-rfjGfaoiC2ZVsDny-37">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结算&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="440" width="120" height="60" as="geometry" />
