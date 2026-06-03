@@ -60,7 +60,7 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-28" target="mHXOzF-8Q_os6TAiL9U8-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-27" value="停车事务" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-26">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-27" value="车牌数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-26">
           <mxGeometry x="-0.1503" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
