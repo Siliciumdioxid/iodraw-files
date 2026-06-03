@@ -88,11 +88,6 @@
             <mxPoint x="195" y="614.9699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-34" value="收费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-33">
-          <mxGeometry x="0.0435" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-37">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="555" y="560" as="targetPoint" />
