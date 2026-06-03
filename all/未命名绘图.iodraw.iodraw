@@ -175,14 +175,11 @@
             <mxPoint x="550" y="500" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.05;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-76">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-75" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=0.05;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="360.29" y="730" as="sourcePoint" />
+            <mxPoint x="360" y="770" as="sourcePoint" />
             <mxPoint x="360.00000000000006" y="710" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-76" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;收费记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="354" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-77" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
