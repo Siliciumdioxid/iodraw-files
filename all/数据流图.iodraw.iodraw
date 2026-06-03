@@ -391,8 +391,25 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-180" value="P2.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="1040" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-204" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-182">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-182" value="车辆停放" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="1060" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-183" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-187" target="mHXOzF-8Q_os6TAiL9U8-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1150" y="1085" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-184" value="管理车位信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-183">
+          <mxGeometry x="0.284" y="2" relative="1" as="geometry">
+            <mxPoint y="-2" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-187" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1110" y="940" width="100" height="50" as="geometry" />
