@@ -308,6 +308,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-114" target="mHXOzF-8Q_os6TAiL9U8-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="1458" />
+              <mxPoint x="240" y="1458" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-114" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;用户&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="100" y="1260" width="100" height="50" as="geometry" />
         </mxCell>
@@ -351,6 +359,9 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-126" value="出库离开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
           <mxGeometry x="230" y="1445" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.651;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-119" target="mHXOzF-8Q_os6TAiL9U8-114">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
