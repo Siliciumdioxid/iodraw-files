@@ -401,7 +401,7 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-179" value="车辆停车结束" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="970" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-180" value="P3.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-180" value="P2.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="890" y="1040" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-181" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-182" target="mHXOzF-8Q_os6TAiL9U8-193">
