@@ -27,7 +27,7 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-23" value="系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-22">
           <mxGeometry x="-0.0258" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="1" y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
