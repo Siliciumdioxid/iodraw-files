@@ -45,9 +45,13 @@
             <mxPoint x="560" y="310" as="targetPoint" />
             <Array as="points">
               <mxPoint x="370" y="330" />
-              <mxPoint x="480" y="330" />
-              <mxPoint x="480" y="310" />
+              <mxPoint x="560" y="330" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-25" value="停车数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-24">
+          <mxGeometry x="0.0322" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-13" value="校园停车收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
