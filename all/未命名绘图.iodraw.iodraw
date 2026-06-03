@@ -168,7 +168,7 @@
           <mxGeometry x="535" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-71" value="系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="680.0014285714287" y="685" as="geometry" />
+          <mxGeometry x="680.0014285714287" y="700" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-73" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -213,7 +213,8 @@
             <mxPoint x="450" y="730" as="sourcePoint" />
             <mxPoint x="810" y="720" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="780" y="685" />
+              <mxPoint x="730" y="685" />
+              <mxPoint x="777" y="685" />
             </Array>
           </mxGeometry>
         </mxCell>
