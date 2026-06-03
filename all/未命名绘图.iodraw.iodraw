@@ -78,10 +78,13 @@
           <mxGeometry x="315" y="510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-39" value="校园停车入场管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="520" width="100" height="50" as="geometry" />
+          <mxGeometry x="460" y="510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-40" value="校园停车入场管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="335" y="530" width="100" height="50" as="geometry" />
+          <mxGeometry x="470" y="590" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-41" value="P1.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="490" width="100" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
