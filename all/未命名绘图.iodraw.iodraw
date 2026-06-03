@@ -197,6 +197,12 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-82" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;停车记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="490" y="640" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-83" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="490.29" y="650" as="sourcePoint" />
+            <mxPoint x="490" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
