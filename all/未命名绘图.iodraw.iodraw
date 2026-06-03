@@ -33,6 +33,9 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-12" target="mHXOzF-8Q_os6TAiL9U8-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-12" value="P1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="100" height="20" as="geometry" />
         </mxCell>
@@ -80,7 +83,7 @@
           <mxGeometry x="500" y="240" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-45" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="470" y="280" width="100" height="30" as="geometry" />
+          <mxGeometry x="500" y="280" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
