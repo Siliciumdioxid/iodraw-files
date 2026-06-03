@@ -118,6 +118,11 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-37" target="mHXOzF-8Q_os6TAiL9U8-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-101" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-100">
+          <mxGeometry x="-0.0893" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-37" value="车辆管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="450" width="100" height="50" as="geometry" />
         </mxCell>
