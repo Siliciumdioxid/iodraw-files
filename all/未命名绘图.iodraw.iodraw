@@ -115,7 +115,7 @@
           <mxGeometry x="460.00310344827597" y="295" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-51" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;车辆信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="340" y="520" width="130" height="30" as="geometry" />
+          <mxGeometry x="360" y="520" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-52" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;车辆停放记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="340" y="560" width="130" height="30" as="geometry" />
@@ -147,7 +147,7 @@
           <mxGeometry x="260" y="270" width="275" height="132.23" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-66" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;车位信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="535" y="620" width="120" height="30" as="geometry" />
+          <mxGeometry x="535" y="520" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
