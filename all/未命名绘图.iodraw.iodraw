@@ -80,7 +80,7 @@
           <mxGeometry x="130" y="450" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-31" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="700" y="510" width="100" height="50" as="geometry" />
+          <mxGeometry x="700" y="440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-32" value="P1.1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="430" width="100" height="20" as="geometry" />
