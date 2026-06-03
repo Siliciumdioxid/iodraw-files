@@ -35,7 +35,7 @@
           <mxGeometry x="600" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;停车卡类型&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="330" y="130" width="120" height="80" as="geometry" />
+          <mxGeometry x="350" y="130" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-17" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;车牌号&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="720" y="390" width="120" height="80" as="geometry" />
@@ -74,7 +74,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-13" target="BkF-rfjGfaoiC2ZVsDny-16">
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-13" target="BkF-rfjGfaoiC2ZVsDny-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="390" y="350" as="sourcePoint" />
             <mxPoint x="440" y="300" as="targetPoint" />
@@ -86,9 +86,9 @@
             <mxPoint x="540" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.684;exitY=0.002;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-13" target="BkF-rfjGfaoiC2ZVsDny-15">
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-26" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-13" target="BkF-rfjGfaoiC2ZVsDny-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="370" as="sourcePoint" />
+            <mxPoint x="540" y="240" as="sourcePoint" />
             <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
