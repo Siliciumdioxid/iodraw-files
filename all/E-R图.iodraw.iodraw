@@ -92,7 +92,10 @@
             <mxPoint x="520" y="290" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查询&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-29" target="BkF-rfjGfaoiC2ZVsDny-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;结算&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="305" y="440" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-32" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="BkF-rfjGfaoiC2ZVsDny-29" target="BkF-rfjGfaoiC2ZVsDny-2">
@@ -101,7 +104,7 @@
             <mxPoint x="270" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BkF-rfjGfaoiC2ZVsDny-41" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BkF-rfjGfaoiC2ZVsDny-32">
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-41" value="1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BkF-rfjGfaoiC2ZVsDny-32">
           <mxGeometry x="-0.2178" y="-4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -116,7 +119,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-37" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="490" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-38" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;停车费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="520" width="120" height="80" as="geometry" />
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="BkF-rfjGfaoiC2ZVsDny-40" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;出库时间&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="730" y="610" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="BkF-rfjGfaoiC2ZVsDny-43" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费记录&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
