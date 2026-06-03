@@ -132,13 +132,12 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-51" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;车辆信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="360" y="520" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.613;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-28">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.602;entryY=1.053;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="190" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="680" />
               <mxPoint x="190" y="560" />
-              <mxPoint x="191" y="560" />
             </Array>
           </mxGeometry>
         </mxCell>
