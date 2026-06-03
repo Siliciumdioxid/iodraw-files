@@ -36,35 +36,6 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-12" value="P1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="320" y="340.0044827586207" as="sourcePoint" />
-            <mxPoint x="620" y="410" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="410" />
-              <mxPoint x="200" y="410" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-21" value="停车事务结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-19">
-          <mxGeometry x="0.0435" relative="1" as="geometry">
-            <mxPoint x="10" y="-60" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="560" y="310" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="370" y="330" />
-              <mxPoint x="560" y="330" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-25" value="系统管理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-24">
-          <mxGeometry x="0.0322" y="-1" relative="1" as="geometry">
-            <mxPoint x="41" y="-81" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-13" value="校园停车收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="100" height="50" as="geometry" />
         </mxCell>
@@ -104,6 +75,9 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-41" value="P1.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="460" y="490" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-44" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;用户&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
