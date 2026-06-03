@@ -357,8 +357,10 @@
             <mxPoint x="329.58" y="1370" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-126" value="出库离开" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="230" y="1445" as="geometry" />
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-126" value="收费结算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="230" y="1430" as="geometry">
+            <mxPoint x="3" y="4" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-130" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.651;entryY=1.041;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-119" target="mHXOzF-8Q_os6TAiL9U8-114">
           <mxGeometry relative="1" as="geometry">
