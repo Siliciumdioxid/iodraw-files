@@ -161,7 +161,7 @@
           <mxGeometry x="30" y="360" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-44" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;缴费信息返回&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
-          <mxGeometry x="30" y="520" width="100" height="60" as="geometry" />
+          <mxGeometry x="30" y="550" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-51" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;离场信息更新&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="77e6c97f196da883-5">
           <mxGeometry x="30" y="730" width="100" height="60" as="geometry" />
@@ -177,6 +177,16 @@
           <mxGeometry x="-0.8561" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2GDShw4IBEuoWOkHVofA-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="77e6c97f196da883-1" source="2GDShw4IBEuoWOkHVofA-40" target="2GDShw4IBEuoWOkHVofA-27">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="400" y="585" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2GDShw4IBEuoWOkHVofA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-1" source="2GDShw4IBEuoWOkHVofA-27" target="2GDShw4IBEuoWOkHVofA-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
