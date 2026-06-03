@@ -236,7 +236,7 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-91" value="P1.1.1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="820" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-92" value="车辆管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-92" value="车辆入库登记" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="300" y="840" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-93" value="P1.1.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
