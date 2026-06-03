@@ -117,11 +117,16 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="560" as="targetPoint" />
+            <mxPoint x="190" y="560" as="targetPoint" />
             <Array as="points">
               <mxPoint x="190" y="680" />
               <mxPoint x="190" y="560" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-63" value="收费" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mHXOzF-8Q_os6TAiL9U8-61">
+          <mxGeometry x="0.3948" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-53" value="收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
