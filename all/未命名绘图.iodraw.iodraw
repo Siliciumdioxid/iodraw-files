@@ -23,7 +23,7 @@
           <mxGeometry x="600" y="590" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="62wviir1sbS9VPAUtQGh-9" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体; font-size: 18.6667px;&quot;&gt;车辆信息登记&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="610" y="600" width="40" height="180" as="geometry" />
+          <mxGeometry x="660" y="590" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
