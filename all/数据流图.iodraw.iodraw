@@ -477,7 +477,7 @@
           <mxGeometry x="790" y="620" width="364" height="297.01" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-197" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;车位信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="545" y="530" width="120" height="30" as="geometry" />
+          <mxGeometry x="1001" y="1020" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
