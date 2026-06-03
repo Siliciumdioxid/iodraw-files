@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rg7-FN4UtOsFe6tv0FMp">
-    <mxGraphModel dx="588" dy="359" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="847" dy="517" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -290,11 +290,17 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-115" value="P1.1.1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1240" width="100" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-116" target="mHXOzF-8Q_os6TAiL9U8-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-116" value="车辆停车结束" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1260" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-117" value="P1.1.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1330" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-119" target="mHXOzF-8Q_os6TAiL9U8-138">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-119" value="车费结算" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="1350" width="100" height="50" as="geometry" />
