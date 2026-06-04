@@ -34,6 +34,9 @@
         <mxCell id="dPByqMQHe8sBS8S9dnxS-56" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费记录查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="345" y="383" width="130" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="dPByqMQHe8sBS8S9dnxS-57" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;停车位查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
