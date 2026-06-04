@@ -484,14 +484,14 @@
             <mxPoint x="-39" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jSn3B5IHVA7km7NOcqeS-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="jSn3B5IHVA7km7NOcqeS-83">
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#f8cecc;strokeColor=#b85450;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1460" y="835" as="sourcePoint" />
-            <mxPoint x="1790" y="560" as="targetPoint" />
+            <mxPoint x="1810" y="520" as="targetPoint" />
             <Array as="points">
               <mxPoint x="1640" y="835" />
-              <mxPoint x="1640" y="520" />
-              <mxPoint x="1810" y="520" />
+              <mxPoint x="1640" y="470" />
+              <mxPoint x="1810" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>
