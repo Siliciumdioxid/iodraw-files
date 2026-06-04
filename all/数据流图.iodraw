@@ -112,7 +112,7 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-101" value="车辆停放信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mHXOzF-8Q_os6TAiL9U8-100" vertex="1" connectable="0">
           <mxGeometry x="-0.0893" y="3" relative="1" as="geometry">
-            <mxPoint x="2" y="21" as="offset" />
+            <mxPoint x="2" y="37" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-37" value="车辆管理系统" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
@@ -137,7 +137,7 @@
           <mxGeometry x="455.00310344827597" y="215" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-51" value="D1&amp;nbsp; &amp;nbsp; &amp;nbsp;车辆信息表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
-          <mxGeometry x="360" y="520" width="130" height="30" as="geometry" />
+          <mxGeometry x="365" y="520" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -419,8 +419,8 @@
             <mxPoint x="940" y="1120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jSn3B5IHVA7km7NOcqeS-1" value="D5&amp;nbsp; &amp;nbsp; &amp;nbsp;收费记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
-          <mxGeometry x="385" y="555" width="120" height="30" as="geometry" />
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-1" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;收费记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
+          <mxGeometry x="350" y="555" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
