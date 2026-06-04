@@ -29,10 +29,10 @@
           <mxGeometry x="230" y="220" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-55" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;停车位记录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="340" width="120" height="30" as="geometry" />
+          <mxGeometry x="360" y="330" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-56" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费记录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="383" width="130" height="30" as="geometry" />
+          <mxGeometry x="355" y="370" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-58" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;停车卡办理记录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="420" width="150" height="30" as="geometry" />
@@ -41,7 +41,7 @@
           <mxGeometry x="505" y="285" width="150" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-60" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;车辆信息管理&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="505" y="190" width="140" height="30" as="geometry" />
+          <mxGeometry x="510" y="190" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-61" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;报表生成&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="505" y="330" width="150" height="30" as="geometry" />
