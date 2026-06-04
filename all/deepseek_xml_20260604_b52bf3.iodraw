@@ -1,0 +1,204 @@
+<mxfile host="app.diagrams.net" modified="2024-01-01T00:00:00.000Z" agent="5.0" etag="abc123" version="22.1.0" type="device">
+  <diagram name="泳道图" id="swimlane-diagram">
+    <mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- 泳道背景 -->
+        <mxCell id="swimlane-车主" value="车主" style="swimlane;startSize=30;horizontal=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="300" height="900" as="geometry"/>
+        </mxCell>
+        <mxCell id="swimlane-门禁终端" value="门禁终端" style="swimlane;startSize=30;horizontal=0;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="300" height="900" as="geometry"/>
+        </mxCell>
+        <mxCell id="swimlane-计费记录" value="计费与记录系统" style="swimlane;startSize=30;horizontal=0;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="640" y="40" width="300" height="900" as="geometry"/>
+        </mxCell>
+        <mxCell id="swimlane-管理员" value="管理员" style="swimlane;startSize=30;horizontal=0;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="940" y="40" width="300" height="900" as="geometry"/>
+        </mxCell>
+
+        <!-- 步骤标签（左侧辅助） -->
+        <mxCell id="step1" value="1. 车辆到达入口" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="90" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step2" value="2. 识别车牌/查询" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step3" value="3. 未登记处理" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="200" width="120" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="step4" value="4. 已登记&开闸" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="280" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step5" value="5. 入场记录" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="330" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step6" value="6. 停车期间" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="400" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step7" value="7. 车辆到达出口" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="470" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step8" value="8. 查询入场记录" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="520" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step9" value="9. 计费计算" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="580" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step10" value="10. 显示费用/支付" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="640" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step11" value="11. 缴费确认" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="700" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step12" value="12. 开闸离场" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="760" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step13" value="13. 车主查询" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="830" width="120" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="step14" value="14. 管理员查询" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="890" width="120" height="30" as="geometry"/>
+        </mxCell>
+
+        <!-- 车主泳道内容 -->
+        <mxCell id="car-arrive" value="车辆到达入口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="85" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-unreg" value="若未登记：<br>前往管理处登记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="195" width="250" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-wait" value="等待闸机开启" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="275" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-enter" value="入场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="340" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-park" value="停车中" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="405" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-exit-arrive" value="车辆到达出口" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="470" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-show-fee" value="查看费用" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="635" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-pay" value="支付（临时卡）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="695" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-leave" value="离场" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="760" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="car-query" value="输入车牌查询<br>进出记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="60" y="825" width="250" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- 门禁终端泳道内容 -->
+        <mxCell id="gate-recognize" value="识别车牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="85" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-query" value="查询是否已登记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="140" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-unreg-tip" value="提示未登记，请先登记" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="195" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-card-judge" value="判断卡类型及有效期" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="275" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-open" value="开启闸机（抬杆）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="330" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-close" value="车辆通过后关闭闸机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="385" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-exit-recog" value="识别车牌" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="470" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-exit-query" value="查询入场记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="520" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-calc" value="调用计费引擎" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-show" value="显示应付金额" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="635" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-pay-ok" value="记录支付状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="695" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-exit-open" value="开启闸机（抬杆）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="760" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="gate-exit-close" value="车辆通过后关闭闸机" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="360" y="815" width="250" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- 计费与记录系统泳道内容 -->
+        <mxCell id="billing-get-reg" value="返回登记状态及卡信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="140" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-save-reg" value="记录登记信息（车牌、姓名、电话）→ 默认临时卡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="195" width="250" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-card-info" value="返回卡信息" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="275" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-record-in" value="记录入场时间、车牌、卡类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="340" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-exit-return" value="返回入场时间、卡类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="520" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-fee-calc" value="按规则计算费用：&lt;br&gt;临时卡按时长；月卡/特殊卡费用=0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="580" width="250" height="50" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-pay-record" value="记录支付状态（已付）" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="695" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-record-out" value="记录出场时间、实际费用、支付状态" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="760" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="billing-user-query" value="返回该车所有进出记录" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="660" y="825" width="250" height="40" as="geometry"/>
+        </mxCell>
+
+        <!-- 管理员泳道内容 -->
+        <mxCell id="admin-view-reg" value="查看所有登记车辆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="195" width="250" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="admin-query-all" value="查询所有进出记录、收入统计、当前在场车辆" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="960" y="885" width="250" height="50" as="geometry"/>
+        </mxCell>
+
+        <!-- 跨泳道箭头（连接关键流程） -->
+        <mxCell id="arrow1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="car-arrive" target="gate-recognize">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="gate-query" target="billing-get-reg">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="billing-card-info" target="gate-card-judge">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="gate-open" target="billing-record-in">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="gate-exit-query" target="billing-exit-return">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;entryX=0;entryY=0.5;" edge="1" parent="1" source="gate-calc" target="billing-fee-calc">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="billing-pay-record" target="gate-pay-ok">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;entryX=1;entryY=0.5;" edge="1" parent="1" source="billing-user-query" target="car-query">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
