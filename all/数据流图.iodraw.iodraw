@@ -495,9 +495,6 @@
             <mxPoint x="5" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jSn3B5IHVA7km7NOcqeS-127" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="jSn3B5IHVA7km7NOcqeS-86" target="jSn3B5IHVA7km7NOcqeS-97">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
