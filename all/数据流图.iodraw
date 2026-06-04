@@ -422,6 +422,12 @@
         <mxCell id="jSn3B5IHVA7km7NOcqeS-1" value="D2&amp;nbsp; &amp;nbsp; &amp;nbsp;收费记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" vertex="1" parent="1">
           <mxGeometry x="350" y="555" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-2" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="mHXOzF-8Q_os6TAiL9U8-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350.29" y="530" as="sourcePoint" />
+            <mxPoint x="350" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
