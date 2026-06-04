@@ -115,10 +115,20 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jSn3B5IHVA7km7NOcqeS-137" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-105" target="mHXOzF-8Q_os6TAiL9U8-94">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="995" />
+              <mxPoint x="470" y="1155" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-138" value="系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="jSn3B5IHVA7km7NOcqeS-137">
+          <mxGeometry x="-0.7809" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-105" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="505" y="970" width="100" height="50" as="geometry" />
+          <mxGeometry x="540" y="970" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-108" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
