@@ -543,7 +543,7 @@
         <mxCell id="jSn3B5IHVA7km7NOcqeS-150" value="P2.1" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="620" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jSn3B5IHVA7km7NOcqeS-151" value="车辆入库" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-151" value="车辆登记系统" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="280" y="640" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="jSn3B5IHVA7km7NOcqeS-152" value="P2.2" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
