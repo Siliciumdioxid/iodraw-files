@@ -71,11 +71,11 @@
         <mxCell id="77e6c97f196da883-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;车辆信息登记&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
           <mxGeometry x="30" y="170" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_VQB9nnseLzty7Pi7mvY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="77e6c97f196da883-3" source="2GDShw4IBEuoWOkHVofA-2" target="77e6c97f196da883-11" edge="1">
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="77e6c97f196da883-3" source="2GDShw4IBEuoWOkHVofA-2" target="77e6c97f196da883-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="150" y="90" />
-              <mxPoint x="150" y="200" />
+              <mxPoint x="80" y="150" />
+              <mxPoint x="80" y="150" />
             </Array>
           </mxGeometry>
         </mxCell>
