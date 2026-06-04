@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="1426" dy="921" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="1771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -187,6 +187,113 @@
         </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-1" source="2GDShw4IBEuoWOkHVofA-27" target="2GDShw4IBEuoWOkHVofA-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-5" target="_VQB9nnseLzty7Pi7mvY-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="-440" />
+              <mxPoint x="120" y="-440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-5" target="_VQB9nnseLzty7Pi7mvY-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-5" target="_VQB9nnseLzty7Pi7mvY-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="380" y="-440" />
+              <mxPoint x="640" y="-440" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-5" target="_VQB9nnseLzty7Pi7mvY-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-5" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&lt;br/&gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:14.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;校园门禁停车收费系统&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="-520" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-8" target="_VQB9nnseLzty7Pi7mvY-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-8" target="_VQB9nnseLzty7Pi7mvY-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-8" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&amp;lt;br/&amp;gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:14.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车辆管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-10" target="_VQB9nnseLzty7Pi7mvY-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-10" value="&lt;span style=&quot;mso-spacerun:&#39;yes&#39;;font-family:Calibri;mso-fareast-font-family:宋体;&amp;lt;br/&amp;gt;mso-bidi-font-family:&#39;Times New Roman&#39;;font-size:14.0000pt;mso-font-kerning:1.0000pt;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;车位管理模块&lt;/font&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-13" target="_VQB9nnseLzty7Pi7mvY-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-13" target="_VQB9nnseLzty7Pi7mvY-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-13" value="&lt;span style=&quot;font-family: 宋体; font-size: 18.6667px;&quot;&gt;停车收费管理模块&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-14" value="&lt;p&gt;&lt;span style=&quot;font-family: 宋体; font-size: 18.6667px;&quot;&gt;车辆信息管理&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="230" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-15" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;停车卡业务管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="280" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-16" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;收费标准管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="600" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-17" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车位信息管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="100" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-18" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;收费记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="650" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-24" target="_VQB9nnseLzty7Pi7mvY-25">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="-340" />
+              <mxPoint x="370" y="-340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-24" target="_VQB9nnseLzty7Pi7mvY-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-24" target="_VQB9nnseLzty7Pi7mvY-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-24" target="_VQB9nnseLzty7Pi7mvY-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_VQB9nnseLzty7Pi7mvY-24" target="_VQB9nnseLzty7Pi7mvY-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="470" y="-340" />
+              <mxPoint x="560" y="-340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-24" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆进出管理模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="-420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-25" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车牌识别&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="340" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-26" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;停车记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="540" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-27" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;闸机控制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-28" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆入场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-320" width="40" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-29" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆出场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+          <mxGeometry x="490" y="-320" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
