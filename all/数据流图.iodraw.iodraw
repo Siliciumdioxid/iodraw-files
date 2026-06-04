@@ -98,6 +98,14 @@
         <mxCell id="jSn3B5IHVA7km7NOcqeS-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-31" target="mHXOzF-8Q_os6TAiL9U8-53">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mHXOzF-8Q_os6TAiL9U8-31" target="jSn3B5IHVA7km7NOcqeS-37">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="485" />
+              <mxPoint x="570" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-31" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;管理员&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="727" y="460" width="100" height="50" as="geometry" />
         </mxCell>
