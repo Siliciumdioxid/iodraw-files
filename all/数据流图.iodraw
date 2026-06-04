@@ -145,17 +145,6 @@
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-71" value="系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680.0014285714287" y="670" as="geometry" />
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-31" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="730" as="sourcePoint" />
-            <mxPoint x="810" y="720" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="730" y="685" />
-              <mxPoint x="777" y="685" />
-              <mxPoint x="780" y="560" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mHXOzF-8Q_os6TAiL9U8-90" target="mHXOzF-8Q_os6TAiL9U8-92" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -408,7 +397,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jSn3B5IHVA7km7NOcqeS-10" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="320" y="640" width="150" height="160" as="geometry" />
+          <mxGeometry x="320" y="490" width="150" height="160" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-53" value="收费管理系统" style="html=1;dashed=0;whiteSpace=wrap;" parent="jSn3B5IHVA7km7NOcqeS-10" vertex="1">
           <mxGeometry y="20" width="100" height="50" as="geometry" />
@@ -430,6 +419,9 @@
             <mxPoint x="40.29000000000002" y="90" as="sourcePoint" />
             <mxPoint x="40" y="70" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="jSn3B5IHVA7km7NOcqeS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="jSn3B5IHVA7km7NOcqeS-10" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-53">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
