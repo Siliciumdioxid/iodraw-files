@@ -169,35 +169,11 @@
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-48" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="970" y="-60" width="440" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-51" value="IMU预积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="10" width="54.25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-52" value="地图匹配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="60" width="54.25" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-53" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1130" y="-50" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-54" value="RRT全局路径" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="-40" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-55" value="EGO-PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="10" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-56" value="线性插值优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1184" y="60" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-57" value="交通流&lt;div&gt;&amp;nbsp; 检测&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1270" y="-50" width="120" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-58" value="YOLO目标检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="-40" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-59" value="BOT-SORT目标追踪" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="10" width="60" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-60" value="KDE提取拥堵点" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="60" width="60" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
