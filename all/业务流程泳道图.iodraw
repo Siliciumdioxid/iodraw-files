@@ -44,10 +44,18 @@
         <mxCell id="2GDShw4IBEuoWOkHVofA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="77e6c97f196da883-2" source="2GDShw4IBEuoWOkHVofA-45" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="730" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="80" y="720" />
+              <mxPoint x="81" y="720" />
+              <mxPoint x="81" y="730" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;缴费&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_VQB9nnseLzty7Pi7mvY-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-2" source="2GDShw4IBEuoWOkHVofA-50" target="2GDShw4IBEuoWOkHVofA-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-50" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;车辆离场&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="30" y="730" width="100" height="60" as="geometry" />
