@@ -185,7 +185,7 @@
             <mxPoint x="379.71" y="710" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-82" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;停车记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
+        <mxCell id="mHXOzF-8Q_os6TAiL9U8-82" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;收费记录表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="1" vertex="1">
           <mxGeometry x="350" y="770" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-86" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-31" edge="1">
