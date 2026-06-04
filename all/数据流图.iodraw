@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="rg7-FN4UtOsFe6tv0FMp">
-    <mxGraphModel dx="571" dy="369" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1175" dy="759" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,19 +118,6 @@
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-49" value="系统管理结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="455.00310344827597" y="215" as="geometry" />
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.599;entryY=1.026;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="mHXOzF-8Q_os6TAiL9U8-53" target="mHXOzF-8Q_os6TAiL9U8-28" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="560" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="190" y="680" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mHXOzF-8Q_os6TAiL9U8-63" value="收费结算" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="mHXOzF-8Q_os6TAiL9U8-61" vertex="1" connectable="0">
-          <mxGeometry x="0.3948" y="3" relative="1" as="geometry">
-            <mxPoint x="53" y="75" as="offset" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-71" value="系统管理" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="1" vertex="1" connectable="0">
           <mxGeometry x="680.0014285714287" y="670" as="geometry" />
@@ -387,7 +374,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="jSn3B5IHVA7km7NOcqeS-19" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="370" y="730" width="164" height="170" as="geometry" />
+          <mxGeometry x="373" y="610" width="164" height="170" as="geometry" />
         </mxCell>
         <mxCell id="mHXOzF-8Q_os6TAiL9U8-55" value="D4&amp;nbsp; &amp;nbsp; &amp;nbsp;收费规则表" style="html=1;dashed=0;whiteSpace=wrap;shape=mxgraph.dfd.dataStoreID;align=left;spacingLeft=3;points=[[0,0],[0.5,0],[1,0],[0,0.5],[1,0.5],[0,1],[0.5,1],[1,1]];" parent="jSn3B5IHVA7km7NOcqeS-19" vertex="1">
           <mxGeometry x="44" y="100" width="120" height="30" as="geometry" />
