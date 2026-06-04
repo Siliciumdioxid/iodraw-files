@@ -14,10 +14,10 @@
           <mxGeometry x="240" y="210" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-45" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="90" height="30" as="geometry" />
+          <mxGeometry x="240" y="350" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dPByqMQHe8sBS8S9dnxS-46" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;缴费&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="310" width="90" height="30" as="geometry" />
+          <mxGeometry x="240" y="398" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
