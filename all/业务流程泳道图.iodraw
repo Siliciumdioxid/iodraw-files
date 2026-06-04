@@ -74,6 +74,10 @@
         <mxCell id="_VQB9nnseLzty7Pi7mvY-115" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="77e6c97f196da883-3" source="77e6c97f196da883-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="480" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="130" y="430" />
+              <mxPoint x="80" y="430" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="77e6c97f196da883-11" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;车辆信息登记&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-3" vertex="1">
