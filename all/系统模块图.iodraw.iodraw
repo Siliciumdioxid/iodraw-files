@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1174" dy="759" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="998" dy="645" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -65,7 +65,7 @@
         <mxCell id="62wviir1sbS9VPAUtQGh-18" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;收费记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1150" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-2">
+        <mxCell id="e09utdQJ3lviL1QivieI-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="580" />
@@ -73,16 +73,16 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-5">
+        <mxCell id="e09utdQJ3lviL1QivieI-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-6">
+        <mxCell id="e09utdQJ3lviL1QivieI-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-7">
+        <mxCell id="e09utdQJ3lviL1QivieI-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-3">
+        <mxCell id="e09utdQJ3lviL1QivieI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="e09utdQJ3lviL1QivieI-1" target="e09utdQJ3lviL1QivieI-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="580" />
@@ -90,22 +90,22 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆进出管理模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-1" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆进出管理模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="910" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-2" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车牌识别&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-2" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车牌识别&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="840" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-3" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;停车记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-3" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;停车记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="1040" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-5" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;闸机控制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-5" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;闸机控制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="890" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-6" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆入场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-6" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆入场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="940" y="600" width="40" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="e09utdQJ3lviL1QivieI-7" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆入场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
+        <mxCell id="e09utdQJ3lviL1QivieI-7" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;车辆出场管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" parent="1" vertex="1">
           <mxGeometry x="990" y="600" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
