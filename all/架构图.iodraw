@@ -166,11 +166,11 @@
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-47" value="MAVLink" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c2f2f5;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1280" y="192.5" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-48" value="HTML + CSS + JavaScript&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+        <mxCell id="LxOf8c3FLPAeSvp_HLJ3-48" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;HTML + CSS + JavaScript&amp;nbsp;&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="1025" y="-20" width="330" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-53" value="用户端页面" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="1180" y="20" width="70" height="40" as="geometry" />
+          <mxGeometry x="1085" y="20" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LxOf8c3FLPAeSvp_HLJ3-57" value="&amp;nbsp;管理端页面" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1270" y="20" width="70" height="40" as="geometry" />
