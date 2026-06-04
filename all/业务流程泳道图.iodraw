@@ -41,9 +41,6 @@
         <mxCell id="2GDShw4IBEuoWOkHVofA-32" value="&lt;span style=&quot;font-family: 宋体; font-size: 16px;&quot;&gt;是否查询车辆停放位置&lt;/span&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; white-space: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22rounded%3D1%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3Bshadow%3D0%3BlabelBackgroundColor%3Dnone%3BstrokeWidth%3D1%3BfontFamily%3DVerdana%3BfontSize%3D8%3Balign%3Dcenter%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%22420%22%20y%3D%22215%22%20width%3D%22100%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3Ed&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="40" y="450" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2GDShw4IBEuoWOkHVofA-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;缴费&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
-          <mxGeometry x="30" y="640" width="100" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="2GDShw4IBEuoWOkHVofA-50" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;车辆离场&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="77e6c97f196da883-2" vertex="1">
           <mxGeometry x="30" y="730" width="100" height="60" as="geometry" />
         </mxCell>
@@ -98,6 +95,9 @@
         <mxCell id="_VQB9nnseLzty7Pi7mvY-38" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;离场信息更新&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="_VQB9nnseLzty7Pi7mvY-37">
           <mxGeometry x="30" y="730" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="2GDShw4IBEuoWOkHVofA-45" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;缴费&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="_VQB9nnseLzty7Pi7mvY-37" vertex="1">
+          <mxGeometry x="40" y="640" width="100" height="60" as="geometry" />
+        </mxCell>
         <mxCell id="_VQB9nnseLzty7Pi7mvY-31" value="管理员" style="swimlane;html=1;startSize=20;" vertex="1" parent="77e6c97f196da883-1">
           <mxGeometry x="800" y="20" width="160" height="830" as="geometry" />
         </mxCell>
@@ -133,7 +133,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="240" y="640" />
-              <mxPoint x="80" y="640" />
+              <mxPoint x="730" y="640" />
             </Array>
           </mxGeometry>
         </mxCell>
