@@ -169,12 +169,6 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-21" value="&amp;nbsp; A-LOAM&lt;div&gt;&amp;nbsp;三维建图&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-80" width="120" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-23" value="IMU预积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1010" width="54.25" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-24" value="地图匹配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="1010" y="50" width="54.25" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-25" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-60" width="120" height="160" as="geometry" />
         </mxCell>
@@ -230,7 +224,7 @@
           <mxGeometry x="1010" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-54" value="路径规划" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="850" y="-40" width="120" height="160" as="geometry" />
+          <mxGeometry x="950" y="-60" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-44" value="交通参数检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1090" y="310" width="60" height="60" as="geometry" />
@@ -248,7 +242,7 @@
           <mxGeometry x="950" y="305" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-22" value="点云特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="895.75" y="-110" width="54.25" height="40" as="geometry" />
+          <mxGeometry x="910" y="-30" width="54.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
