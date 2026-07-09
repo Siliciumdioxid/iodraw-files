@@ -227,7 +227,7 @@
           <mxGeometry x="930" y="300" width="440" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-43" value="球形摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="960" y="310" width="60" height="60" as="geometry" />
+          <mxGeometry x="990" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-44" value="枪形摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1064.25" y="310" width="60" height="60" as="geometry" />
@@ -245,7 +245,7 @@
           <mxGeometry x="950" y="395" width="20" height="70" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-50" value="采集设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="940" y="305" width="20" height="70" as="geometry" />
+          <mxGeometry x="950" y="305" width="20" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
