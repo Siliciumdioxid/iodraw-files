@@ -241,6 +241,9 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-47" value="无人机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1280" y="310" width="60" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="jgJ75leuCFokOmu4_F35-49" value="采集设备" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="415" width="60" height="45" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
