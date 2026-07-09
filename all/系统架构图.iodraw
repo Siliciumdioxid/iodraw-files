@@ -125,7 +125,7 @@
           <mxGeometry x="960" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-6" value="采集层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="810" y="310" width="80" height="80" as="geometry" />
+          <mxGeometry x="810" y="310" width="80" height="150" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-8" value="传输层" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="810" y="150" width="80" height="120" as="geometry" />
