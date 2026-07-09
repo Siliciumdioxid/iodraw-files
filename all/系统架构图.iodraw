@@ -241,6 +241,9 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-55" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;SF Pro Text, PingFang SC, Noto Sans CJK SC, Microsoft YaHei, system-ui, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;交换机&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c2f2f5;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="1240" y="162.5" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="jgJ75leuCFokOmu4_F35-56" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;SF Pro Text, PingFang SC, Noto Sans CJK SC, Microsoft YaHei, system-ui, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;基站&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c2f2f5;strokeColor=#0e8088;" vertex="1" parent="1">
+          <mxGeometry x="1240" y="217.5" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
