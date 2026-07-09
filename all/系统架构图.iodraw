@@ -4,6 +4,9 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="jgJ75leuCFokOmu4_F35-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="930" y="-70" width="440" height="180" as="geometry" />
+        </mxCell>
         <mxCell id="ShpNeO37DKtkFpiU3BGc-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="ShpNeO37DKtkFpiU3BGc-9" target="ShpNeO37DKtkFpiU3BGc-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -163,14 +166,8 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jgJ75leuCFokOmu4_F35-20" target="jgJ75leuCFokOmu4_F35-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="930" y="-70" width="440" height="180" as="geometry" />
-        </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-21" value="&amp;nbsp; A-LOAM&lt;div&gt;&amp;nbsp;三维建图&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="1400" y="-80" width="120" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-22" value="点云特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
-          <mxGeometry x="955.75" y="-40" width="54.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-23" value="IMU预积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1010" width="54.25" height="40" as="geometry" />
@@ -249,6 +246,9 @@
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-50" value="边缘计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="305" width="20" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jgJ75leuCFokOmu4_F35-22" value="点云特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
+          <mxGeometry x="895.75" y="-110" width="54.25" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
