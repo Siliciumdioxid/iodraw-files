@@ -167,7 +167,7 @@
           <mxGeometry x="930" y="-70" width="440" height="180" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-21" value="&amp;nbsp; A-LOAM&lt;div&gt;&amp;nbsp;三维建图&lt;/div&gt;&lt;div&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;模块&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b0e3e6;strokeColor=#0e8088;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="950" y="-60" width="120" height="160" as="geometry" />
+          <mxGeometry x="1400" y="-80" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-22" value="点云特征提取" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-50" width="54.25" height="40" as="geometry" />
