@@ -163,7 +163,7 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="jgJ75leuCFokOmu4_F35-20" target="jgJ75leuCFokOmu4_F35-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-25" value="数据处理" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="jgJ75leuCFokOmu4_F35-25" value="信息处理" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="1090" y="-60" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-26" value="交通统计" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
