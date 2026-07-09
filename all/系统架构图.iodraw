@@ -217,7 +217,7 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-43" value="车辆目标检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1010" y="310" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-54" value="&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+        <mxCell id="jgJ75leuCFokOmu4_F35-54" value="视频传入&lt;div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="950" y="-60" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-44" value="交通参数检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
