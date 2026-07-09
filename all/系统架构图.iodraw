@@ -226,7 +226,7 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-50" value="边缘计算" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="950" y="305" width="20" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-22" value="解码" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
+        <mxCell id="jgJ75leuCFokOmu4_F35-22" value="协议转换" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1010" y="-50" width="54.25" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-55" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;SF Pro Text, PingFang SC, Noto Sans CJK SC, Microsoft YaHei, system-ui, sans-serif&quot; color=&quot;#171717&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;交换机&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#c2f2f5;strokeColor=#0e8088;" vertex="1" parent="1">
