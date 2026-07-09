@@ -187,6 +187,9 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-27" value="EGO-PLANNER" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1144" width="60" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jgJ75leuCFokOmu4_F35-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgJ75leuCFokOmu4_F35-28" target="jgJ75leuCFokOmu4_F35-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-28" value="线性插值优化" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1144" y="50" width="60" height="40" as="geometry" />
         </mxCell>
