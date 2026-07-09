@@ -175,6 +175,9 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-23" value="IMU预积分" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1010" width="54.25" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="jgJ75leuCFokOmu4_F35-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="jgJ75leuCFokOmu4_F35-24" target="jgJ75leuCFokOmu4_F35-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-24" value="地图匹配" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E0EDFF;" vertex="1" parent="1">
           <mxGeometry x="1010" y="50" width="54.25" height="40" as="geometry" />
         </mxCell>
