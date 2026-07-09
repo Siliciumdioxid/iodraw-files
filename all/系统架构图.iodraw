@@ -224,13 +224,13 @@
           <mxGeometry x="1250" y="460" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-38" value="车载式摄像头" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1270" y="320" width="60" height="60" as="geometry" />
+          <mxGeometry x="1204" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-40" value="卡口抓拍一体机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="1110" y="320" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-41" value="无人机" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
-          <mxGeometry x="1440" y="380" width="60" height="60" as="geometry" />
+          <mxGeometry x="1290" y="320" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
