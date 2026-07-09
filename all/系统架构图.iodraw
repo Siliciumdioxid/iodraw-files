@@ -226,7 +226,7 @@
         <mxCell id="jgJ75leuCFokOmu4_F35-42" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="930" y="300" width="440" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="jgJ75leuCFokOmu4_F35-43" value="目标检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
+        <mxCell id="jgJ75leuCFokOmu4_F35-43" value="车辆目标检测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
           <mxGeometry x="990" y="310" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jgJ75leuCFokOmu4_F35-44" value="交通参数监测" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" vertex="1" parent="1">
