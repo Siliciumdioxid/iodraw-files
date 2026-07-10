@@ -669,6 +669,11 @@
         <mxCell id="AXGeqNEH2eGMopW9SRG0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-14" target="AXGeqNEH2eGMopW9SRG0-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="AXGeqNEH2eGMopW9SRG0-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2370" y="1430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;联动控制平台&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2320" y="1350" width="100" height="50" as="geometry" />
         </mxCell>
@@ -703,7 +708,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2530" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="2530" y="1350" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
