@@ -674,7 +674,7 @@
         <mxCell id="AXGeqNEH2eGMopW9SRG0-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-49" target="AXGeqNEH2eGMopW9SRG0-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AXGeqNEH2eGMopW9SRG0-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-14" target="AXGeqNEH2eGMopW9SRG0-39">
+        <mxCell id="AXGeqNEH2eGMopW9SRG0-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-14" target="AXGeqNEH2eGMopW9SRG0-54">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-14" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;联动控制平台&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
