@@ -200,24 +200,8 @@
         <mxCell id="MKdjv865EBLn6TnwgxZX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53" target="MKdjv865EBLn6TnwgxZX-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MKdjv865EBLn6TnwgxZX-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1750" y="560" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="MKdjv865EBLn6TnwgxZX-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53" target="MKdjv865EBLn6TnwgxZX-55">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1710" y="540" />
-              <mxPoint x="1800" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-53" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;存储与检索模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1650" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="MKdjv865EBLn6TnwgxZX-55" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;停车记录管理&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1780" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-57" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;视频分类检索&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1680" y="560" width="40" height="180" as="geometry" />
