@@ -595,6 +595,9 @@
         <mxCell id="AXGeqNEH2eGMopW9SRG0-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;摄像头&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1260" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="AXGeqNEH2eGMopW9SRG0-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="AXGeqNEH2eGMopW9SRG0-4" target="AXGeqNEH2eGMopW9SRG0-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-4" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;指挥中心&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1410" width="100" height="50" as="geometry" />
         </mxCell>
@@ -608,7 +611,7 @@
           <mxGeometry x="2160" y="1410" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-8" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;信息服务平台&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="2320" y="1340" width="100" height="50" as="geometry" />
+          <mxGeometry x="2160" y="1490" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="AXGeqNEH2eGMopW9SRG0-9" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;出行者&lt;/span&gt;&lt;/font&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="2530" y="1390" width="100" height="50" as="geometry" />
