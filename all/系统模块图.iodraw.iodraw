@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0" version="24.7.17">
   <diagram name="Page-1" id="b98fa263-6416-c6ec-5b7d-78bf54ef71d0">
-    <mxGraphModel dx="1080" dy="811" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+    <mxGraphModel dx="756" dy="568" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" style=";html=1;" />
         <mxCell id="1" style=";html=1;" parent="0" />
@@ -178,7 +178,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-42" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;联动控制模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1820" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1790" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-43" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;边缘计算模块&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1450" y="560" width="40" height="180" as="geometry" />
@@ -187,27 +187,29 @@
           <mxGeometry x="1500" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-45" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;公安部门&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1810" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1780" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-46" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;多画面轮询&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1290" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-47" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;交通部门&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1860" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1830" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53" target="MKdjv865EBLn6TnwgxZX-69">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1650" y="560" as="targetPoint" />
+            <mxPoint x="1620" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MKdjv865EBLn6TnwgxZX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53" target="MKdjv865EBLn6TnwgxZX-57">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="MKdjv865EBLn6TnwgxZX-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-53" target="MKdjv865EBLn6TnwgxZX-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1660" y="500" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-53" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;存储与检索模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1650" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1620" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-57" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;视频分类检索&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1720" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1690" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MKdjv865EBLn6TnwgxZX-59" target="MKdjv865EBLn6TnwgxZX-70">
           <mxGeometry relative="1" as="geometry" />
@@ -216,7 +218,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-59" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;信息服务模块&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="1940" y="460" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-63" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;远程控制&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
           <mxGeometry x="1340" y="560" width="40" height="180" as="geometry" />
@@ -228,16 +230,16 @@
           <mxGeometry x="1550" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-69" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;视频编码存储&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1660" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1630" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-70" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;电子地图查询&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1970" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1940" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-71" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;信息诱导大屏&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="2050" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="2020" y="560" width="40" height="180" as="geometry" />
         </mxCell>
         <mxCell id="MKdjv865EBLn6TnwgxZX-72" value="&lt;p&gt;&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 18.6667px;&quot;&gt;其他政府机构&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;textDirection=vertical-lr;" vertex="1" parent="1">
-          <mxGeometry x="1910" y="560" width="40" height="180" as="geometry" />
+          <mxGeometry x="1880" y="560" width="40" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
