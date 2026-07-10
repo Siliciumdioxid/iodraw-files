@@ -595,6 +595,9 @@
         <mxCell id="AXGeqNEH2eGMopW9SRG0-3" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;摄像头&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="1960" y="1260" width="100" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="AXGeqNEH2eGMopW9SRG0-4" value="&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;摄像头&lt;/span&gt;" style="html=1;dashed=0;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1960" y="1410" width="100" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
