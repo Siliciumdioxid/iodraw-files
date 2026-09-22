@@ -16,14 +16,26 @@
         <mxCell id="kXVsJN1SRnEgyyXKIfVv-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;道路病害感知&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="240" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kXVsJN1SRnEgyyXKIfVv-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kXVsJN1SRnEgyyXKIfVv-5" target="kXVsJN1SRnEgyyXKIfVv-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kXVsJN1SRnEgyyXKIfVv-5" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;多源融合定位&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="320" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kXVsJN1SRnEgyyXKIfVv-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="kXVsJN1SRnEgyyXKIfVv-6" target="kXVsJN1SRnEgyyXKIfVv-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kXVsJN1SRnEgyyXKIfVv-6" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;道路病害演化分析&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="560" width="200" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="kXVsJN1SRnEgyyXKIfVv-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kXVsJN1SRnEgyyXKIfVv-7" target="kXVsJN1SRnEgyyXKIfVv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="kXVsJN1SRnEgyyXKIfVv-7" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;病害建档&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="480" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="kXVsJN1SRnEgyyXKIfVv-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="kXVsJN1SRnEgyyXKIfVv-8" target="kXVsJN1SRnEgyyXKIfVv-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="kXVsJN1SRnEgyyXKIfVv-8" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;去重聚合&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="400" width="200" height="60" as="geometry" />
